@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+    height: 100vh;
+    width: 100%;
+    background-image: url("https://images.pexels.com/photos/3253501/pexels-photo-3253501.jpeg?cs=srgb&dl=pexels-cesar-gale%C3%A3o-3253501.jpg&fm=jpg&w=6016&h=4016&_gl=1*1ap3c4m*_ga*MTM0NzYxOTc0NS4xNzExMjA4MjU2*_ga_8JE65Q40S6*MTcxMTIwODI1NS4xLjEuMTcxMTIwODM4Ny4wLjAuMA");
+    background-size: cover;
+
+}
